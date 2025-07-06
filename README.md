@@ -1,0 +1,1 @@
+Ant Empire is a real-time strategy roguelike game where you command an ant colony. Build structures, manage resources, spawn and control ant units, and defend against waves of enemies. Use intuitive group selection, formations, and hotkeys for tactical control. Survive, expand, and lead your ants to victory!
