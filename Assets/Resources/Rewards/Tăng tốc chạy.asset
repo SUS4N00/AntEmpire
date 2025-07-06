@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46022de5b3dc13642982b453465dd5f2, type: 3}
+  m_Name: "T\u0103ng t\u1ED1c ch\u1EA1y"
+  m_EditorClassIdentifier: 
+  rewardName: "T\u0103ng t\u1ED1c ch\u1EA1y"
+  description: "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n cho unit +10%"
+  icon: {fileID: -939605758, guid: 84122cf0849f4c94ca000dad5a8e345b, type: 3}
+  type: 0
+  value: 0.1

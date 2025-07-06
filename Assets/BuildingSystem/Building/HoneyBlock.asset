@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4483948ba6cd8f428b7c4983bc056ad, type: 3}
+  m_Name: HoneyBlock
+  m_EditorClassIdentifier: 
+  buildingName: HoneyBlock
+  buildingPrefab: {fileID: 3932372467408876418, guid: 74932bbc38729ed44909a7ddf376c65b, type: 3}
+  icon: {fileID: -909141554, guid: df80ee035ce279b458c86214c363c4ba, type: 3}
+  buildCost: 00000000000000000000000032000000
+  spawnableUnits: []

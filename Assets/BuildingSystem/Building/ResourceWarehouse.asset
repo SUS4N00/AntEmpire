@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4483948ba6cd8f428b7c4983bc056ad, type: 3}
+  m_Name: ResourceWarehouse
+  m_EditorClassIdentifier: 
+  buildingName: ResourceWarehouse
+  buildingPrefab: {fileID: 5060363190420993868, guid: 0d8bc584ee3648c4aa99600299cc6444, type: 3}
+  icon: {fileID: 549783534, guid: df80ee035ce279b458c86214c363c4ba, type: 3}
+  buildCost: 14000000000000001400000000000000
+  spawnableUnits: []

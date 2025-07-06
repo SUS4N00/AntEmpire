@@ -1,0 +1,44 @@
+-Vấn đề cần thực hiện:
+	+ Thiết kế game:
+		# Gameplay
+			_ Mô tả cốt lõi gameplay: Ví dụ: "Người chơi điều khiển đội kiến chiến đấu, thu thập tài nguyên, xây tổ và đánh bại đối thủ."
+			_ Cơ chế chính: Di chuyển kiến, chiến đấu, nâng cấp, AI đối thủ.
+			_ Luật chơi: Thắng/thua, cách tính điểm, thời gian.
+			_ Phong cách: Game hành động chiến thuật, mô phỏng đàn kiến.
+		# Thiết kế các thành phần game
+			_ Thiết kế các đơn vị lính
+			_ Thiết kế các công trình
+			_ Thiết kế hệ thống tài nguyên
+			_ Thiết kế kẻ thù
+			_ Thiết kế môi trường
+			_ Thiết kế UI/UX
+
+	+ Phát triển game:
+		# Lập trình
+		# Đồ họa, âm thanh
+		# Thiết kế màn chơi
+		# Tối ưu hóa hiệu suất
+
+	+ Kiểm thử, chỉnh sửa:
+		# Kiểm thử:
+			_ Test lỗi logic (ví dụ: kiến không di chuyển đến đúng vị trí).
+			_ Cân bằng gameplay (ví dụ: độ khó của kẻ thù).
+		# Chỉnh sửa:
+			_ Fix bug, tối ưu hiệu suất.
+			_ Điều chỉnh giao diện dựa trên phản hồi người dùng.
+
+-Công cụ sử dụng:
+	+ Lập trình: Unity + Visual Studio
+
+	+ Thiết kế đồ họa: Piskel
+
+	+ Quản lý dự án: GitHub
+
+-Phương pháp thực hiện:
+	+ Phát triển tăng dần: Xây dựng từng module (nhân vật → map → gameplay).
+
+	+ Lặp lại (Agile): Test → Nhận feedback → Chỉnh sửa.
+
+-Tính thực tế của đồ án:
+
+-Định hướng phát triển, mở rộng:

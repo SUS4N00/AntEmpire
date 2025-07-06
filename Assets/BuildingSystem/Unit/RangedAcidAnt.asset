@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3302fe30a2aaa7e40ab5d3b538359e1c, type: 3}
+  m_Name: RangedAcidAnt
+  m_EditorClassIdentifier: 
+  unitName: RangedAcidAnt
+  unitPrefab: {fileID: 4090915434275784434, guid: 6adbc0c642199d5428e4d834623f4d2c, type: 3}
+  icon: {fileID: 1888835230868132468, guid: fb62228958c13b743a07cfdbccf0a79e, type: 3}
+  resourceCost: 000000000a0000000000000000000000
